@@ -1,6 +1,6 @@
 ﻿<h1 style="text-align: center">StarkLudo</h1>
 
-_<div style="text-align: center">Ludo game, on the Starknet blockchain</div>_
+_<div style="text-align: center">Ludo game, on the Starknet BLOCKCHAIN</div>_
 
 <div style="text-align: center ">
   <img width="996" alt="image" src="https://github.com/user-attachments/assets/97b4fefc-fdf3-4078-bbe5-a2937464d4ad">
